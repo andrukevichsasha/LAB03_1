@@ -13,7 +13,7 @@
             Console.WriteLine($"Сумма: {a + b}");
             Console.WriteLine($"Разность: {a - b}");
             Console.WriteLine($"Произведение: {a * b}");
-            Console.WriteLine($"Cреднее арифметическое: {((a + b) / 2.0)}");
+            Console.WriteLine($"Cреднее арифметическое: {(a + b) / 2}");
         }
     }
 }
